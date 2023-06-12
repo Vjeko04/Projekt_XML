@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<houses>
+    <house id="1">
+        <name>Stark</name>
+        <region>North</region>
+        <allegiance>Crown</allegiance>
+    
+    </house>
+    <house id="2">
+        <name>Bolton</name>
+        <region>North</region>
+        <allegiance>Stark</allegiance>
+    
+    </house>
+    <house id="3">
+        <name>Umber</name>
+        <region>North</region>
+        <allegiance>Stark</allegiance>
+    
+    </house>
+    <house id="4">
+        <name>Karstark</name>
+        <region>North</region>
+        <allegiance>Stark</allegiance>
+    
+    </house>
+    <house id="5">
+        <name>Manderly</name>
+        <region>North</region>
+        <allegiance>Stark</allegiance>
+    
+    </house>
+</houses>
